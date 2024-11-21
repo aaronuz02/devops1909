@@ -8,7 +8,7 @@ def wait_fot_print():
     from time import sleep
     sleep(3)
     print("hello world")
-
+print("moshe")
 wait_fot_print()
 
-print(datetime.datetime.now())
+print("test")
